@@ -1,0 +1,21 @@
+/afs/cats.ucsc.edu/users/s/nsivapra/cs11/lab2
+
+Access list for public is
+Normal rights:
+  system:operator rlidwk
+  system:authuser rlid
+  system:anyuser rl
+  nsivapra rlidwka
+
+Access list for private is
+Normal rights:
+  nsivapra rlidwka
+
+total 7
+-rw-r--r--. 1 nsivapra users  453 Jan 15 12:50 HelloWorld.class
+drwxr-xr-x. 2 nsivapra users 2048 Jan 13 10:35 private
+-rwx------. 1 nsivapra users  201 Jan 15 13:14 prog
+drwxr-xr-x. 2 nsivapra users 2048 Jan 13 10:35 public
+-rw-r--r--. 1 nsivapra users  238 Jan 18 13:05 result
+
+Hello, my name is Nivetha Sivaprakasam.

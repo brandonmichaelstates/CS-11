@@ -1,0 +1,7 @@
+
+1) For sentence code 4 the sentence should be "I have to buy another book .." with a singular book. Instead it prints "I have to buy another books.." with a plural.
+2) For sentence code 5 modifier code 2 there should be a period after the end of the sentence, Thanks for the stuff you sent.
+3) For sentence code 2 modifier code 4 it still prints the weather is hot when it should be the weather here has been cold.
+4) For sentence code 3 modifier code 3 it should print I plan to come home for a visit next weekend instead it prints I plan to come home for a visit last weekend.
+5) If the sentence code is out of range it should print "6 is not a valid sentence code", instead it prints "6 is a valid sentence code."
+6) For sentence code 5 modifier code any number that is out of range the code should print Thanks for the ERROR you sent, instead it prints thanks for the ERROR.  
