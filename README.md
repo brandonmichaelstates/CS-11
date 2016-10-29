@@ -15,6 +15,8 @@ Lab6 : Basic Software Testing
 
 Lab7 : Intro to C
 
+-------------------------------------
+
 Pa1 : Calculate Time to Mow a Lawn
 
 Pa2 : Interactive Guessing Game
