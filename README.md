@@ -27,4 +27,4 @@ Pa4 : Find Roots
 
 Pa5 : n-Queens Problem
 
-Pa6 : Opeartions with Complex Numbers
+Pa6 : Operations with Complex Numbers
